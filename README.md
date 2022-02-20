@@ -3,7 +3,7 @@
 
 ## 课程信息
 - 授课教师：[邱锡鹏](https://xpqiu.github.io/index.html)教授， [姜育刚](http://www.yugangjiang.info/bioChn.html)教授
-- 课程助教：李鹏
+- 课程助教：<a href="mailto:lip21@m.fudan.edu.cn">李鹏</a>
 - 时间地点：周一11-13节
 - 预修内容：微积分、线性代数、概率统计、数值优化、Python编程
 - 教材：
