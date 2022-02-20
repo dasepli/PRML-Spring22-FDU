@@ -1,10 +1,10 @@
 # PRML-Spring22-FDU
-复旦大学2022年春季学期 “COMP130137 模式识别与机器学习” 课 (PRML) 课程主页
+复旦大学2022年春季学期 “COMP130137模式识别与机器学习” 课课程主页
 
 ## 课程信息
 - 授课教师：[邱锡鹏](https://xpqiu.github.io/index.html)教授， [姜育刚](http://www.yugangjiang.info/bioChn.html)教授
 - 课程助教：李鹏
-- 时间地点：周一 11-13节
+- 时间地点：周一11-13节
 - 预修内容：微积分、线性代数、概率统计、数值优化、Python编程
 - 教材：
 	- 《神经网络与深度学习》邱锡鹏著，[在线版本](https://nndl.github.io/)
