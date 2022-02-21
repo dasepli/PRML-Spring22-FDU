@@ -1,8 +1,8 @@
 # Assignment0
 
 本次作业是对numpy和paddle的热身练习：
-- numpy 练习：[html file](./numpy_warmup.html)&nbsp; [.ipynb file](./numpy_warmup.ipynb)
-- paddle 练习：[html file](./paddle_warmup.html)&nbsp;  [.ipynb file](./paddle_warmup.ipynb)
+- numpy 练习：[html文件](./numpy_warmup.html)，[ipynb文件](./numpy_warmup.ipynb)
+- paddle 练习：[html文件](./paddle_warmup.html)，[ipynb文件](./paddle_warmup.ipynb)
 
 
 **环境配置**
