@@ -7,7 +7,9 @@ You have to impletement several standard classification methods in the './fudanP
 - Decision Tree (15 points, optional)
 - Softmax (10 points)
 - SVM (15 points, optional)
-- Neural Network (20 points)
+- Neural Network (20 points)    
+
+
 and then do your exploration (50 points).
 
 You can only use some basic python libraries in your experiment like numpy, paddle(can not use the paddle.nn), matplotlib and so on. And please write down the version with them in the './requirements.txt' file.
