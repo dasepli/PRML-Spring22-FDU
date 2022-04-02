@@ -57,7 +57,7 @@ These assignments and the final project will be released both on the [e-learning
 ### Assignment0: [Programming Warmup](./assignment0) (0%)
 This assignment will help you do some basic practices using numpy and paddle.
 
-### Assignment1: [Machine Learning Meets Fashion](./assignment0) (15%)
+### Assignment1: [Machine Learning Meets Fashion](./assignment1) (15%)
 In this assignment, you will
 - Build your own tiny sklearn-style machine learning library;
 - Hack some practical problems with our processed Fashion-MNIST dataset;
