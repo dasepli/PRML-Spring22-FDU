@@ -1,4 +1,4 @@
-In this assignment, you will use what you have learned to tackle some pratical problems. Fashion MNIST dataset[1] is the MNIST-like fashion product database for image classification you will play with this time. It originally consists of a training set of 60000 examples and a test set of 10000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
+In this assignment, you will use what you have learned to tackle some pratical problems. Fashion MNIST dataset[1] is a MNIST-like fashion product database for image classification you will play with this time. It originally consists of a training set of 60000 examples and a test set of 10000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
 To make this task more realistic (and harder:)), we selected 14600 labeled examples from the training set and did a little processing. You have to do this image classifictaion task with our new dataset. Besides, we provide you with the rest of examples (45400 examples) but with no labels, and you can consider how to use it in your experiment if needed.
 
