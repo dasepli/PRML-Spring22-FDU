@@ -1,8 +1,11 @@
+# Assignment1: Machine Learning Meets Fashion
+[[GitHub Link](https://github.com/dasepli/PRML-Spring22-FDU/tree/main/assignment1)]
+
 In this assignment, you will use what you have learned to tackle some pratical problems. Fashion MNIST dataset[1] is a MNIST-like fashion product database for image classification you will play with this time. It originally consists of a training set of 60000 examples and a test set of 10000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 
 To make this task more realistic (and harder:)), we selected 14600 labeled examples from the training set and did a little processing. You have to do this image classifictaion task with our new dataset. Besides, we provide you with the rest of examples (45400 examples) but with no labels, and you can consider how to use it in your experiment if needed.
 
-You have to impletement several standard classification methods in the './fudanPRML' folder:
+You have to follow the [jupyter notebook](https://github.com/dasepli/PRML-Spring22-FDU/blob/main/assignment1/assignment1.ipynb) to impletement several standard classification methods in the './fudanPRML' folder:
 - K-nearest Neighbor (10 points)
 - Decision Tree (15 points, optional)
 - Softmax (10 points)
