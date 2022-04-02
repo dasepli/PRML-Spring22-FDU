@@ -1,34 +1,40 @@
 # PRML-Spring22-FDU
-复旦大学2022年春季学期 “COMP130137模式识别与机器学习” 课课程主页
 
-## 课程信息
-- 授课教师：[邱锡鹏](https://xpqiu.github.io/index.html)教授， [姜育刚](http://www.yugangjiang.info/bioChn.html)教授
-- 课程助教：<a href="mailto:lip21@m.fudan.edu.cn">李鹏</a>
-- 时间地点：周一11-13节
-- 预修内容：微积分、线性代数、概率统计、数值优化、Python编程
-- 教材：
-	- 《神经网络与深度学习》邱锡鹏著，[在线版本](https://nndl.github.io/)
-	- 《Pattern Recognition and Machine Learning》Christopher M. Bishop著，[在线版本](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
-- 往年课程：[2021春](https://toscode.gitee.com/fnlp/prml-21-spring)/[2020春](https://github.com/xuyige/PRML-Spring20-FDU)/[2019春](https://github.com/FDUCSLG/PRML-2019Spring-FDU)
+Course website for PRML Spring 2022 at Fudan University.
 
-## 进度表
+## Course Info
+- Instructors: [Prof. Xipeng Qiu](https://xpqiu.github.io/index.html), [Prof. Yugang Jiang](http://www.yugangjiang.info/bioChn.html)
+- TAs: <a href="mailto:lip21@m.fudan.edu.cn">Peng Li</a>
+- Time: Monday 6:30 pm - 9:05 pm
+- Venue: H3205 / Online
+- Prerequisites: College Calculus, Linear Algebra, Probability and Statistics, Numerical Optimization, Python Programming
+- TextBooks：
+	- *Neural Network and Deep Learning, Xipeng Qiu*, [online version](https://nndl.github.io/)
+	- *Pattern Recognition and Machine Learning, Christopher M. Bishop*，[online version](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- Previous Years: [Spring 2021](https://toscode.gitee.com/fnlp/prml-21-spring) / [Spring 2020](https://github.com/xuyige/PRML-Spring20-FDU) / [Spring 2019](https://github.com/FDUCSLG/PRML-2019Spring-FDU)
 
-| 时间 | 课程内容 | 相关材料 | 作业/项目 | DDL |
-|:--:|:--:|:--:|:--:|:--:|
-|02/21 |第一节： 机器学习简介  | |Assignment0: [numpy&paddle warmup](./assignment0) | |
-|02/28 |第二节： 线性回归  | |  | |
-|03/07 |第三节： K近邻与决策树  | |  | |
-|03/14 |第四节： 逻辑回归  | |  | |
-|03/21 |第五节： 核方法与支持向量机  | |  | |
-|03/28 |第六节： 前馈神经网络  | |  | |
-|04/02 |第七节： 卷积神经网络  | |  | |
-|04/11 |第八节： 循环神经网络  | |  | |
-|04/18 |第九节： 注意力机制  | |  | |
-|05/02 |劳动节假期  | |  | |
-|05/09 |第十节： 模型独立的机器学习  | |  | |
-|05/16 |第十一节： 待定 | |  | |
-|05/23 |第十二节： 待定 | |  | |
-|05/30 |第十三节： 待定 | |  | |
+## Schedule
 
-## 作业指南
+|Date| Description | Course Materials | Events | DDLs |
+| :--: | :--: | :--: | :--: | :--: |
+|02/21 |Lec1: Introduction  | | Assignment0: [numpy&paddle warmup](./assignment0) | |
+|02/28 |Lec2: Linear Regression  | |  | |
+|03/07 |Lec3: K-NN and Decision Tree | |  | |
+|03/14 |Lec4: Perceptron and Logistic Regression  | |  | |
+|03/21 |Lec5: Kernel Method and SVM | |  | |
+|03/28 |Lec6: Feedforward Neural Networks | |  | |
+|04/02 |Lec7: Convolutional Neural Networks | |  | |
+|04/11 |Lec8: Recurrent Neural Networks  | |  | |
+|04/18 |Lec9: Attention Mechanism | |  | |
+|04/25 |Lec10: Unsupervised Learning | |  | |
+|05/02 |International Workers' Day | |  | |
+|05/09 |Lec11: Model-Independent Machine Learning  | |  | |
+|05/16 |Lec12: Guest Lecture| |  | |
+|05/23 |Lec13: Guest Lecture| |  | |
+|05/30 |Lec14: Guest Lecture| |  | |
+|06/06 |Lec15: Guest Lecture| |  | |
+|06/13 |Lec15: TBD | |  | |
+|06/20 |Lec15: TBD | |  | |
+
+## Coursework
 本学期将采用一系列重新设计的作业题目，并采用PaddlePaddle进行实践。
