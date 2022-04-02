@@ -1,4 +1,4 @@
-# Assignment0: Programming Warmup ()
+# Assignment0: Programming Warmup
 [[GitHub Link](https://github.com/dasepli/PRML-Spring22-FDU/tree/main/assignment0)]
 
 This assignment will help you to be familiar with numpy and paddle (in Chinese): 
