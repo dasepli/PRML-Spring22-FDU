@@ -16,47 +16,56 @@ Course website for PRML Spring 2022 at Fudan University ([Github Link](https://g
 
 ## News
 <ul>  
-<li>[<font color="red">Mar. 30</font>] Assignment1 released! </li>
+<li>[<font color="red">30/03</font>] Assignment1 was released, hope you enjoy it! </li>
+<li>[<font color="red">21/02</font>] Welcome to PRML 2022 Spring and assignment0 was released! </li>
 </ul>
 
 ## Schedule
 
 |Date| Description | Course Materials | Events | DDLs |
 | :-- | :-- | :-- | :-- | :-- |
-|Feb. 21 |Lec1: Introduction  | | Assignment 0: [Programming Warmup](./assignment0) | |
-|Feb. 28 |Lec2: Linear Regression  | |Exercise: Linear and Polynomial Regression  | |
-|Mar. 07 |Lec3: K-NN and Decision Tree | |Exercise: K-NN and Decision Tree  | |
-|Mar. 14 |Lec4: Perceptron and Logistic Regression  | |Exercise: Logistic and Softmax Regression  | |
-|Mar. 21 |Lec5: Kernel Method and SVM | |  | |
-|Mar. 28 |Lec6: Feedforward Neural Networks | | Exercise: FFNs | |
-|Mar. 30 | | | Assignment 1: [Machine Learning Meets Fashion](./assignment1) | |
-|Apr. 02 |Lec7: Convolutional Neural Networks | |Exercise: CNNs  | |
-|Apr. 11 |Lec8: Recurrent Neural Networks  | |  | |
-|Apr. 18 |Lec9: Attention Mechanism | |  | |
-|Apr. 20 | | |  |Assignment1 <font color="red">due</font> |
-|Apr. 25 |Lec10: Unsupervised Learning | |  | |
-|May 02 |Cancelled for International Workers' Day | |  | |
-|May 09 |Lec11: Model-Independent Machine Learning  | |  | |
-|May 16 |Lec12: Guest Lecture| |  | |
-|May 23 |Lec13: Guest Lecture| |  | |
-|May 30 |Lec14: Guest Lecture| |  | |
-|Jun. 06 |Lec15: Guest Lecture| |  | |
-|Jun. 13 |Lec15: TBD | |  | |
-|Jun. 20 |Lec15: TBD | |  | |
+|21/02 |Lec1: Introduction  | | Assignment0: [Programming Warmup](./assignment0) | |
+|28/02 |Lec2: Linear Regression  | |Exercise: Linear and Polynomial Regression  | |
+|07/03 |Lec3: K-NN and Decision Tree | |Exercise: K-NN and Decision Tree  | |
+|14/03 |Lec4: Perceptron and Logistic Regression  | |Exercise: Logistic and Softmax Regression  | |
+|21/03 |Lec5: Kernel Method and SVM | |  | |
+|28/03 |Lec6: Feedforward Neural Networks | | Exercise: FFNs | |
+|30/03 | | | Assignment1: [Machine Learning Meets Fashion](./assignment1) | |
+|02/04 |Lec7: Convolutional Neural Networks | |Exercise: CNNs  | |
+|11/04 |Lec8: Recurrent Neural Networks  | |  | |
+|18/04 |Lec9: Attention Mechanism | |  | |
+|20/04 | | |  |Assignment1 <font color="red">due</font> |
+|25/04 |Lec10: Unsupervised Learning | |  | |
+|02/05 |Cancelled for Workers' Day | |  | |
+|09/05 |Lec11: Model-Independent Machine Learning  | |  | |
+|16/05 |Lec12: Guest Lecture| |  | |
+|23/05 |Lec13: Guest Lecture| |  | |
+|30/05 |Lec14: Guest Lecture| |  | |
+|06/06 |Lec15: Guest Lecture| |  | |
+|13/06 |Lec15: TBD | |  | |
+|20/06 |Lec15: TBD | |  | |
 
 ## Coursework
 ### Guidelines
+Different from previous years, we will mainly use the [PaddlePaddle AI Studio](https://aistudio.baidu.com/aistudio/index) platform this year for our programming exercises. These exercises will teach you to implement the machine learning models you learned step by step and conduct some basic explorations. In addtion to these exercises, several more interesting assignments and a final project will be designed for you to practice using what you have learned to solve some real-world problems. Notice that **we will only grade the assignments and the final project, and leave the exercises just as study materials**. 
 
-### Assignment0: Programming Warmup
+These assignments and the final project will be released both on the [e-learning](https://elearning.fudan.edu.cn/) platform and this website. But you have to submit them through the e-learning platform. 
 
-
-### Assignment1: Machine Learning Meets Fashion (15%)
-- Build your own machine learning library
-- Hack some realistic tasks
+**Late Policy**: Everyone of you have 2 free late days for this semester. You can only use the late days for your assignments but not for the final project report. Once you have exhausted your free late days, we will deduct a late penalty of 25% per additional late day.
 
 
-### Assignment2: TBD
+### Assignment0: [Programming Warmup](./assignment0) (0%)
+This assignment will help you do some basic practices using numpy and paddle.
 
-### Assignment3: TBD
+### Assignment1: [Machine Learning Meets Fashion](./assignment0) (15%)
+In this assignment, you will
+- Build your own tiny sklearn-style machine learning library;
+- Hack some practical problems with our processed Fashion-MNIST dataset;
 
-### Final Project: TBD
+DDL of this assignment is 23:59, 20/04, 2022.
+
+### Assignment2: TBD (15%)
+
+### Assignment3: TBD (15%)
+
+### Final Project: TBD (50%)
