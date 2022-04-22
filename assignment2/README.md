@@ -1,4 +1,4 @@
-# Machine Translation and Model Attack
+# Assignment2: Machine Translation and Model Attack
 [[GitHub Link](https://github.com/dasepli/PRML-Spring22-FDU/tree/main/assignment2)]
 
 你好，欢迎来到第二次作业！      
