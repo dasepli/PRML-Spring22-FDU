@@ -1,4 +1,7 @@
-你好，欢迎来到第二次作业！
+# Machine Translation and Model Attack
+[[GitHub Link](https://github.com/dasepli/PRML-Spring22-FDU/tree/main/assignment2)]
+
+你好，欢迎来到第二次作业！      
 Hello and welcome to the second assignment!
 
 In this assignment, you will work on a Chinese to English machine translation (MT) task with neural networks. Different from assignment1, this is a generation task in the field of NLP. The bilingual parallel corpus you will play with is the News Commentary v13 dataset from the Third Conference on Machine Learning (WMT18). There are about 252700 training samples, 2000 validation samples and 2000 test samples in the dataset. And the Chinese sentences have been processed by word segmentation. You have to design a Sequence to Sequence (Seq2Seq) model to complete this translation task. The Attention mechanism must be used in your model but you are free to design other modules with CNNs, RNNs and so on. You have to evaluate your model on the test set with Bilingual Evaluation Understudy (BELU) score and Perplexity. Besides, you have to visualize the attention matrix to help you understand your model.
