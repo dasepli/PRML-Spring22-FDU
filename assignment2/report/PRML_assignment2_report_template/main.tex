@@ -1,0 +1,128 @@
+\documentclass{article}
+
+% if you need to pass options to natbib, use, e.g.:
+%     \PassOptionsToPackage{numbers, compress}{natbib}
+% before loading neurips_2020
+
+% ready for submission
+% \usepackage{neurips_2020}
+
+% to compile a preprint version, e.g., for submission to arXiv, add add the
+% [preprint] option:
+\usepackage[preprint]{neurips_2020}
+
+% to compile a camera-ready version, add the [final] option, e.g.:
+%     \usepackage[final]{neurips_2020}
+
+% to avoid loading the natbib package, add option nonatbib:
+%    \usepackage[nonatbib]{neurips_2020}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{float}
+\bibliographystyle{unsrt}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{proposition}{Proposition}
+\newtheorem{lemma}{Lemma}
+\newtheorem{corollary}{Corollary}
+\newtheorem{remark}{Remark}
+\newtheorem{assumption}{Assumption}
+\newtheorem{definition}{Definition}
+
+\title{Latex Template For PRML Assignments %titile here
+}
+
+\author{% Reviese your personal information here
+  Author \\ % Your name 
+  Department \\ % CS 
+  ID: 12345678 \\
+  \texttt{author@fudan.edu.cn} \\
+}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+   The abstract must be limited to one paragraph.
+\end{abstract}
+
+\section{Introduction}
+In this section, one should introduce what you have explored in this assignment.
+
+\section{Dataset}
+In this section, you should introduce the dataset \cite{DBLP:journals/corr/abs-1708-07747} and the results of your Exploratory Data Analysis (EDA).
+
+
+\section{Methodology}
+Introduce your methods used here.
+You can arrange more than one sections to well express your methods.
+
+\section{Results}
+Report your results here.
+You can arrange more than one sections to well express your results.
+
+
+In most cases, figures help your paper easier to understand, insert figure like Figure \ref{fig1:example}.
+\begin{figure}[H]
+  \centering
+  \fbox{\rule[-.5cm]{0cm}{4cm} \rule[-.5cm]{4cm}{0cm}}
+   \caption{Sample figure caption.}
+  \label{fig1:example} 
+\end{figure}
+
+All artwork must be neat, clean, and legible. Lines should be dark enough for
+purposes of reproduction. The figure number and caption always appear after the
+figure. Place one line space before the figure caption and one line space after
+the figure. The figure caption should be lower case (except for first word and
+proper nouns); figures are numbered consecutively.
+
+Tables are also necessary in some cases to present your results better.
+\begin{table}
+  \caption{Sample table title}
+  \label{sample-table}
+  \centering
+  \begin{tabular}{lll}
+    \toprule
+    \multicolumn{2}{c}{Part}                   \\
+    \cmidrule(r){1-2}
+    Name     & Description     & Size ($\mu$m) \\
+    \midrule
+    Dendrite & Input terminal  & $\sim$100     \\
+    Axon     & Output terminal & $\sim$10      \\
+    Soma     & Cell body       & up to $10^6$  \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+
+\section{Conclusion}
+Conclude your paper in this section.
+
+
+\textbf{Notice:} This \LaTeX{} template is modified by Peng Li with template of NIPS2020. Assignments \textbf{must} be submitted with this template, and use \verb+PDFLaTex+ directly to compile your \verb+tex+ files.
+
+
+More information can be found in the following site if you find troubles in compiling your \verb+tex+ files: 
+\begin{center}
+\url{https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles}
+\end{center}
+
+
+\textbf{Hint:} Do not change any aspects of the formatting parameters in the style files.  In
+particular, do not modify the width or length of the rectangle the text should
+fit into, and do not change font sizes.
+
+
+\bibliography{reference}
+
+
+
+\end{document}
