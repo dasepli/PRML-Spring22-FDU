@@ -16,6 +16,7 @@ Course website for PRML Spring 2022 at Fudan University ([Github Link](https://g
 
 ## News
 <ul>  
+<li>[<font color="red">17/05</font>] Final PJ was released, hope you enjoy it! </li>
 <li>[<font color="red">23/04</font>] Assignment2 was released, hope you enjoy it! </li>
 <li>[<font color="red">22/04</font>] Number of assignments changed to two. </li>
 <li>[<font color="red">30/03</font>] Assignment1 was released, hope you enjoy it! </li>
@@ -42,11 +43,13 @@ Course website for PRML Spring 2022 at Fudan University ([Github Link](https://g
 |02/05 |Cancelled for Workers' Day | |  | |
 |09/05 |Lec11: Model-Independent Machine Learning  | |  | |
 |16/05 |Lec12: Guest Lecture| |  | |
+|17/05 | | | [Final Project](./final-pj) out   ||
 |22/05 | | |  |Assignment2 <font color="red">due</font> |
 |23/05 |Lec13: Guest Lecture| |  | |
 |30/05 |Lec14: Guest Lecture| |  | |
 |06/06 |Lec15: Guest Lecture| |  | |
 |13/06 |Lec15: TBD | |  | |
+|17/05 | | |    |Final Project <font color="red">due</font> |
 |20/06 |Lec15: TBD | |  | |
 
 ## Coursework
@@ -75,4 +78,10 @@ In this assignment, you will
 
 DDL of this assignment is 23:59, 22/05, 2022.
 
-### Final Project: TBD (50%)
+### Final Project: [Data Efficient Natural Language Inference](https://dasepli.github.io/PRML-Spring22-FDU/final-pj/) (50%)
+You are free to choose your favorate project. The default project is a NLI task:
+- Build your NLI model;
+- Training the model with as few as labeled training data;
+
+DDL of the final project is 23:59, 17/06, 2022.
+
